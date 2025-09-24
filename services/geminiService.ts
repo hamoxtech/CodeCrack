@@ -1,6 +1,6 @@
 // WARNING: This client-side implementation is for demonstration purposes only.
 // In a real-world application, API keys should be kept on a secure backend server
-// to prevent them from being exposed to users.
+// to prevent them from being exposed to users
 
 import { GoogleGenAI, Type } from "@google/genai";
 import { ExplanationResponse, ExplanationError } from '../types';
