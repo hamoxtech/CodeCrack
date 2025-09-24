@@ -15,8 +15,8 @@ const GoogleAd: React.FC = () => {
     <ins
       className="adsbygoogle"
       style={{ display: "block" }}
-      data-ad-client="ca-pub-6419622111974542"
-      data-ad-slot="7383588698"
+      data-ad-client="ca-pub-7137854737703747"
+      data-ad-slot="2943271492"
       data-ad-format="auto"
       data-full-width-responsive="true"
     ></ins>
